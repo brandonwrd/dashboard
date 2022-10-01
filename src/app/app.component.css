@@ -1,0 +1,41 @@
+.grid {
+    width: 10px;
+    height: 10px;
+    color: lightgray;
+
+}
+
+.visitors {
+    width: 10px;
+    height: 10px;
+    color: lightgray;
+}
+
+.gray-box {
+    width: 10px;
+    height: 10px;
+    color: gray;
+}
+
+
+app-sidebar {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+app-reviews {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+app-average-rating {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+app-sentiment-analysis {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+app-website-visitors {
+    font-family: Arial, Helvetica, sans-serif;
+}
