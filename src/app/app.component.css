@@ -2,11 +2,11 @@
 Using grid CSS
 */
 
-.grid {
+/* .grid {
     display: grid;
     grid-template-columns: repeat(3a, 1fr);
     gap: 10px;
     grid-auto-rows: minmax(100px, auto);
-}
+} */
 
 
